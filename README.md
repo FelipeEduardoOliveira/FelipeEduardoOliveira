@@ -16,7 +16,7 @@
 </p> 
 
 🙋‍♂️ About me <br/><br/>
-:atom: I'm a Front-end Developer at <a href='https://www.brq.com/' target='_blank'> BRQ - Digital Solutions </a>.
+:atom: I'm a Front-end Developer at <a href='https://eosfin.com.br/' target='_blank'> EOS - Financiamento solar </a>.
 
 
 ## 🚀 My Skills
