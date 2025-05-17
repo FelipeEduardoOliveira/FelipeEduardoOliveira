@@ -16,7 +16,7 @@
 </p> 
 
 🙋‍♂️ About me <br/><br/>
-:atom: I'm a Front-end Developer at <a href='https://eosfin.com.br/' target='_blank'> EOS - Financiamento solar </a>.
+:atom: I'm a Front-end Developer at <a href='https://www.caixavidaeprevidencia.com.br/previdencia' target='_blank'> Caixa Vida e previcência </a>.
 
 
 ## 🚀 My Skills
